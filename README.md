@@ -85,8 +85,7 @@
 ├── generate_prediction.py                # [交付] 使用最优冠军模型推理并导出预测文件
 ├── train_data.csv                        # 官方带标签训练数据 (7,368 条)
 ├── test_data_unlabeled.csv               # 官方无标签测试数据 (2,457 条)
-├── prediction.csv                        # [交付物] 最终提交预测结果 (严格符合最新公告规范)
-├── predictions.csv                       # [交付物] 兼容命名备份文件
+├── prediction.csv                        # [交付物] 最终提交预测结果 
 ├── TUNING.md                             # 官方超参数调优指南
 └── README.md                             # 本说明文档
 ```
